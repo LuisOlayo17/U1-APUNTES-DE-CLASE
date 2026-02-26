@@ -270,3 +270,13 @@ radio = 3
 angulo_actual = 0
 paso_angular = 60
 ```
+
+## 📚 Bibliografía
+
+- Foley, J. D., van Dam, A., Feiner, S. K., & Hughes, J. F. _Computer Graphics: Principles and Practice_. Addison-Wesley. :contentReference[oaicite:8]{index=8}  
+- Peddie, Jon. _The History of the GPU: Eras and Environment_. Springer. :contentReference[oaicite:9]{index=9}  
+- Peddie, Jon. _The History of the GPU: Steps to Invention_. Springer. :contentReference[oaicite:10]{index=10}  
+- Lee, Newton (ed.). _Encyclopedia of Computer Graphics and Games_. Springer. :contentReference[oaicite:11]{index=11}  
+- Méndez Servín, Melissa. _Introducción a la graficación por computadora_. Proyecto Descartes. :contentReference[oaicite:12]{index=12}  
+- Carlson, Wayne E. _Computer Graphics and Computer Animation: A Retrospective Overview_. :contentReference[oaicite:13]{index=13}  
+- Lorensen, W. E. & Cline, H. E. “Marching Cubes: A high resolution 3D surface construction algorithm”. *Computer Graphics*, SIGGRAPH ’87 Proceedings. :contentReference[oaicite:14]{index=14}
